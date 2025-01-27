@@ -17,7 +17,7 @@ permalink: /about-my-research/
 - Collected Data, Revised Literature Review, Edited Codebook
 - The study focused on 30 social robots (15 male and 15 female) from three platforms: Xingye, Doubao, and Character AI. Data was collected through 8 open-ended questions and 11 closed-ended questions. The open-ended responses were analyzed using word frequency analysis, while the closed-ended responses were manually coded to explore the expression of gender stereotypes and the differences observed across different platforms and between male and female robots.
 
-## News value negotiation among multiple actors in data journalism production
+## News value negotiation among multiple actors in data journalism production
 - Leader, Participant
 - Advisor: Professor Hongtao Li (Ph.D. in City University Of Hong Kong)
 - Responsible for paper writing and in-depth interview, Collaborated with other 2 participants.

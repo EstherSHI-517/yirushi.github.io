@@ -38,9 +38,9 @@ You can find my CV here: [Yiru Shi's Curriculum Vitae](../assets/Curriculum_Vita
 - A study on the measurement and influencing factors of gender stereotypes in chatbots
 - News value negotiation among multiple actors in data journalism production
   
-# Educations
+# Education
 - *2022.09 - 2026.06 (Expected)*, Fudan University, School of Journalism, Department of Communication – Bachelor of Arts.
 - Core Classes: Communication Research Methods, Data Analysis and Visualization, Social Statistics, Statistical software applications, Auditory-Visual Big Data Computational Communication, Computational and AI Communication, Internet and Sociological Research(Computational Social Science Method), Research Design and Academic Writing, Audience Analysis, Interpersonal Communication.
 
-# Internships
+# Internship
 - *2024.06 - 2024.11*, Data Analysis Intern, [Shanghai United Media Group, The Paper, Department of Data Journalism](https://m.thepaper.cn/list_25635), Shanghai, China.

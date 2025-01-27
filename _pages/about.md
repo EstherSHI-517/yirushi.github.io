@@ -31,7 +31,7 @@ You can find my CV here: [Yiru Shi's Curriculum Vitae](../assets/Curriculum_Vita
 
 # Paper
 
-**Shi,Y. (2025, June)**. The Vanishing of a Communication Infrastructure: The “Right Time” Cultural Memory of Newsstands [Completed Paper](/paper/). 75th Annual ICA Conference. Information Systems Division. Denver, CO.
+**Shi,Y. (2025, June)**. The Vanishing of a Communication Infrastructure: The “Right Time” Cultural Memory of Newsstands [(Completed Paper)](/paper/). 75th Annual ICA Conference. Information Systems Division. Denver, CO.
 
 # About My Research
 - [Investigating the mediation role of social trust between media usage and the acceptance of American Muslims](/about-my-research/)

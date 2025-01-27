@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "Papers"
+  - title: "Paper"
     url: "/#-papers"
     
   - title: "About My Research"
-    url: "/#about-my-research"
+    url: "/#-about-my-research"
 
   - title: "Educations"
     url: "/#-educations"

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at [Fudan University, School of Journalism, Department of  Communication](https://xwxy.fudan.edu.cn/NewsEn/main.htm) in Shanghai, China. 
+**Welcome!** I am an undergraduate student at [Fudan University, School of Journalism, Department of  Communication](https://xwxy.fudan.edu.cn/NewsEn/main.htm) in Shanghai, China. 
 
 My research explores the relationship between communication technologies and human behaviors within certain societal and political contexts. I investigate how technological advancements shape political discourse, social media engagement, and online news production. 
 

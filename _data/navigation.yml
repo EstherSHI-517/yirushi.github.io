@@ -2,13 +2,13 @@
 main:
 
   - title: "Paper"
-    url: "/#-papers"
+    url: "/#-paper"
     
   - title: "About My Research"
     url: "/#-about-my-research"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-education"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#-internship"

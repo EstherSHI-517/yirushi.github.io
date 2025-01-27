@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at [Fudan University, School of Journalism, Department of  Communication in Shanghai, China](https://xwxy.fudan.edu.cn/NewsEn/main.htm). 
+I am an undergraduate student at [Fudan University, School of Journalism, Department of  Communication](https://xwxy.fudan.edu.cn/NewsEn/main.htm) in Shanghai, China. 
 
-My research explores the relationship between communication technologies and social behaviors within societal and political contexts. I investigate how technological advancements shape political discourse, social media engagement, and online news production. 
+My research explores the relationship between communication technologies and human behaviors within certain societal and political contexts. I investigate how technological advancements shape political discourse, social media engagement, and online news production. 
 
-I mostly use computational and quantitative methods, but I also have experienced in qualitative method such as in-depth interview.My technical skills include programming languages such as Python and R, as well as proficiency in Stata, SPSS, and visualization tools like Adobe Photoshop.
+I mostly use computational and quantitative methods, but I also have experienced in qualitative method such as in-depth interview. My technical skills include programming languages such as Python and R, as well as proficiency in Stata, SPSS, and visualization tools like Adobe Photoshop.
 
-With a strong foundation in data analysis, visualization, and academic collaboration, I aim to deepen my understanding of the intersection between technology and communication to contribute to the global discourse on media and society. Recently, my work focused on how short-video platforms influence public perception and engagement, as well as the production and consumption of online news.
+Recently, my work focused on how short-video platforms influence public perception and engagement, as well as the production and consumption of online news.
 
 I like cooking and baking in my spare time. Also, I run and play tennis regularly. I am a fan of classical guitar and are recently learning how to play it.
 

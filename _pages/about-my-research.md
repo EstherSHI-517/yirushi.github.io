@@ -2,6 +2,7 @@
 layout: default
 title: "About My Research"  
 permalink: /about-my-research/  
+author_profile: true
 ---
   
 <!-- content -->

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: "About My Research"  
 permalink: /about-my-research/  
 ---

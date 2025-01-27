@@ -3,7 +3,8 @@ layout: default
 title: "About My Research"  
 permalink: /about-my-research/  
 ---
-
+  
+<!-- content -->
 # About My Research
 
 ## Investigating the mediation role of social trust between media usage and the acceptance of American Muslims, 2024.11-2025.

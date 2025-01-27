@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: "About My Research"  
 permalink: /about-my-research/  
 ---

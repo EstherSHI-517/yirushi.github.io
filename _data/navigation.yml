@@ -1,14 +1,13 @@
 # main links links
 main:
-
   - title: "Paper"
-    url: "/#-paper"
+    url: "/paper/"
     
   - title: "About My Research"
-    url: "/#-about-my-research"
+    url: "/about-my-research/"
 
-  - title: "Educations"
-    url: "/#-education"
+  - title: "Education"
+    url: "/education/"
 
-  - title: "Internships"
-    url: "/#-internship"
+  - title: "Internship"
+    url: "/internship/"

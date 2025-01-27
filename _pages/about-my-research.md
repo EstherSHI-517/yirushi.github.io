@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: compress
 title: "About My Research"  
 permalink: /about-my-research/  
 ---

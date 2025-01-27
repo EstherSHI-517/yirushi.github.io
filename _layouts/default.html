@@ -13,7 +13,18 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-
+    <!-- Navigation Bar -->
+      <nav class="navbar">
+        <ul class="nav">
+          {% for link in site.data.navigation.main %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    <!-- End of Navigation Bar -->
+    
     <div id="main" role="main">
       {% include sidebar.html %}
     

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student at Fudan University, School of Journalism, Department of  Communication in Shanghai, China. 
+I am an undergraduate student at [Fudan University, School of Journalism, Department of  Communication in Shanghai, China](https://xwxy.fudan.edu.cn/NewsEn/main.htm). 
 
 My research explores the relationship between communication technologies and social behaviors within societal and political contexts. I investigate how technological advancements shape political discourse, social media engagement, and online news production. 
 
@@ -29,16 +29,18 @@ I like cooking and baking in my spare time. Also, I run and play tennis regularl
 
 You can find my CV here: [Yiru Shi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). You can contact me through [email](mailto:yiru_shi@outlook.com).
 
-# About My Research
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # Paper
 
 **Shi,Y. (2025, June)**. The Vanishing of a Communication Infrastructure: The “Right Time” Cultural Memory of Newsstands [Completed Paper]. 75th Annual ICA Conference. Information Systems Division. Denver, CO.
 
+# About My Research
+- Investigating the mediation role of social trust between media usage and the acceptance of American Muslims
+- A study on the measurement and influencing factors of gender stereotypes in chatbots
+- News value negotiation among multiple actors in data journalism production
+  
 # Educations
-- *2022.09 - 2026.06 (Expected)*, Fudan University, School of Journalism, Department of Communication – Bachelor of Arts. 
+- *2022.09 - 2026.06 (Expected)*, Fudan University, School of Journalism, Department of Communication – Bachelor of Arts.
+- Core Classes: Communication Research Methods, Data Analysis and Visualization, Social Statistics, Statistical software applications, Auditory-Visual Big Data Computational Communication, Computational and AI Communication, Internet and Sociological Research(Computational Social Science Method), Research Design and Academic Writing, Audience Analysis, Interpersonal Communication.
 
 # Internships
 - *2024.06 - 2024.11*, Data Analysis Intern, [Shanghai United Media Group, The Paper, Department of Data Journalism](https://m.thepaper.cn/list_25635), Shanghai, China.

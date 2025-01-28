@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yiru Shi"
 description              : "Undergraduate Fudan U 26'丨communication "
-repository               : "yirushi.github.io"
+repository               : "EstherSHI-517.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : # https://www.linkedin.com/in/yiru-shi-025b3b30a/
+  linkedin         : "https://www.linkedin.com/in/yiru-shi-025b3b30a/"
   dblp             : 
   orcid            : 
   pinterest        :

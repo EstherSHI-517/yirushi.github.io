@@ -1,4 +1,3 @@
-
 ---
 permalink: /about-my-research/
 title: "About My Research"

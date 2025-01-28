@@ -1,8 +1,12 @@
+
 ---
-layout: default
-title: "About My Research"  
-permalink: /about-my-research/  
+permalink: /about-my-research/
+title: "About My Research"
+excerpt: ""
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
   
 <!-- content -->

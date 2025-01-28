@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /about-my-research/
 title: "About My Research"
 excerpt: ""
@@ -7,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  
+
 <!-- content -->
 # About My Research
 
